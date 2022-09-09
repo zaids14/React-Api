@@ -1,0 +1,2 @@
+# React-Api
+Find the list of all by making an get request to this https://api.imgflip.com/get_memes .  Make a page,design it however you want, It has to have  A search input which changes as you type in the search query, it searches in the “name” attribute and shows the list in table form (this search should be case insensitive).  Column heading - Sr no., Name, Image   And this table should only come when either you have typed anything or have found any match.  Use reactstrap Modal to open the image in Modal when user clicks on the image in the table
